@@ -1,4 +1,3 @@
-clip/DEVELOPERS.md
 ```
 
 # Developer Documentation
