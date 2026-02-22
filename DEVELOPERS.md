@@ -1,5 +1,3 @@
-```
-
 # Developer Documentation
 
 This document provides information for developers who want to contribute to or extend the Clip project.
