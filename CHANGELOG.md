@@ -1,4 +1,3 @@
-clip/CHANGELOG.md
 ```
 
 # Changelog
